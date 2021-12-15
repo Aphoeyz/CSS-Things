@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(69, 58, 226);
+    font-size: 1em;
+}
+
+h2 {
+    font-weight: 700;
+    text-align: center;
+    margin-top: 15px;
+}
+
+p {
+    margin: 25px;
+    font-style: italic;
+    text-align: justify;
+}
+
+div {
+    position: relative;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    border: black 5px solid;
+    border-radius: 50%;
+    left: 500px;
+}
+
+ul {
+    padding: 20px;
+    position: relative;
+    left: 250px;
+    border: black 2px solid;
+    width: 300px;
+    overflow: hidden;
+}
+
+.apple {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.grape {
+    color: purple;
+}
+
+.banana {
+    color: yellowgreen;
+}
+
+.peach {
+    color: peachpuff;
+}
+
+.name {
+    position: relative;
+    left: 600px;
+    bottom: 15px;
+    
+
+}
+
+.link {
+    position: relative;
+    left: 400px;
+    color: #000;
+}
